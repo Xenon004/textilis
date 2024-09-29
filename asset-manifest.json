@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/textilis/static/css/main.be0c93d8.chunk.css",
+    "main.js": "/textilis/static/js/main.cb4cd26b.chunk.js",
+    "main.js.map": "/textilis/static/js/main.cb4cd26b.chunk.js.map",
+    "runtime-main.js": "/textilis/static/js/runtime-main.1087d871.js",
+    "runtime-main.js.map": "/textilis/static/js/runtime-main.1087d871.js.map",
+    "static/js/2.a4b03213.chunk.js": "/textilis/static/js/2.a4b03213.chunk.js",
+    "static/js/2.a4b03213.chunk.js.map": "/textilis/static/js/2.a4b03213.chunk.js.map",
+    "static/js/3.4d5280cd.chunk.js": "/textilis/static/js/3.4d5280cd.chunk.js",
+    "static/js/3.4d5280cd.chunk.js.map": "/textilis/static/js/3.4d5280cd.chunk.js.map",
+    "index.html": "/textilis/index.html",
+    "precache-manifest.e9d21ea433b2f75f0e414dd31021868f.js": "/textilis/precache-manifest.e9d21ea433b2f75f0e414dd31021868f.js",
+    "service-worker.js": "/textilis/service-worker.js",
+    "static/css/main.be0c93d8.chunk.css.map": "/textilis/static/css/main.be0c93d8.chunk.css.map",
+    "static/js/2.a4b03213.chunk.js.LICENSE.txt": "/textilis/static/js/2.a4b03213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1087d871.js",
+    "static/js/2.a4b03213.chunk.js",
+    "static/css/main.be0c93d8.chunk.css",
+    "static/js/main.cb4cd26b.chunk.js"
+  ]
+}
